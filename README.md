@@ -3,3 +3,4 @@ This repo is for training in QA-FUND-SOFTUNI
 first text added
 secont text added
 hahaha
+new line
